@@ -1,6 +1,8 @@
 # Crate Counter Game (Prototype)
 
-**Crate Counter** is a simple 3D Unity prototype where a plane drops crates and the player controls a boat to catch them. Points are earned for every crate caught, making it a fun way to practice Unity physics, triggers, and UI.
+**Crate Counter** is a simple 3D Unity prototype where a plane drops crates and the player controls a boat to catch them. Points are earned for every crate caught, making it a fun way to practice Unity physics, triggers, and UI.  
+<img width="1588" height="778" alt="image" src="https://github.com/user-attachments/assets/ea85d0a0-e52d-427c-8042-a36cca183b27" />
+
 
 ---
 
